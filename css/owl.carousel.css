@@ -117,10 +117,10 @@
 
 @media (max-width:620px){
   .carosuel-conf {
-    bottom: 125px;
+    bottom: 175px;
   }
  .carosuel-conf1 {
-   bottom: 70px;
+   bottom: 100px;
  }
  .carousel-caption.carosuel-conf h1{
    font-size: 30px;
