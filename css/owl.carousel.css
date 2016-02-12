@@ -122,6 +122,20 @@
  .carosuel-conf1 {
    bottom: 70px;
  }
+ .carousel-caption.carosuel-conf h1{
+   font-size: 30px;
+ }
+
+ .carousel-caption.carosuel-conf1 h1{
+   font-size: 30px;
+ }
+
+ .carousel-caption.carosuel-conf p{
+   font-size: 12px;
+ }
+ .carousel-caption.carosuel-conf1 p{
+   font-size: 12px;
+ }
 }
 
 @media (max-width:1280px) {
