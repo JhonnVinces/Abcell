@@ -1,0 +1,296 @@
+
+.navbar .navbar-nav, h1, h2, h3, h4, h5, h6 {
+    font-family:'Francois One' , sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.top-bar-white, .navegacion{
+  background: #ffffff;
+  color:#000000;
+}
+
+.container-fluid{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.contactitu{
+  text-align: center;
+  color: #ffffff;
+}
+
+nav.navbar.navegacion {
+  margin-bottom: 2px;
+}
+
+a.navbar-brand{
+  padding: 15px 0 ;
+}
+
+
+.navegacion a {
+  text-decoration: inherit;
+  color: #ffffff;
+}
+
+ul{
+  list-style: none;
+}
+nav ul li {
+  position: relative;
+  margin: 0 15px;
+  display: inline;
+}
+
+.navbarja{
+  height: 50px;
+    padding: 15px 15px;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.logo{
+  float: left;
+  height: 50px;
+  padding: 15px 0;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+
+.nav .open>a,
+.nav .open>a:hover,
+.nav .open>a:focus,
+.navbar .navbar-nav li a:hover,
+.navbar .navbar-nav li a:focus {
+	border-top:solid #C44D55;
+}
+.navbar .navbar-nav li.active a {
+	border-top:solid #C44D55;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+  text-decoration: none;
+  background-color: #ffffff;
+}
+
+
+.navbar-toggle .icon-bar {
+    background-color: #919191;
+}
+
+.navbar-toggle {
+  border-color: #919191;
+}
+
+.footerbg{
+  background-color: #000000;
+  padding: 10px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.footerbg a{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.csm {
+  position: relative;
+  bottom: 25px;
+  height: 65px;
+}
+
+.nav>li>a {
+  color:#2e3537;
+}
+
+.carosuel-conf{
+  bottom: 35%;
+}
+
+.carosuel-conf1{
+  bottom: 30%;
+}
+
+
+
+.carousel-caption.carosuel-conf h1 {
+  font-size: 65px;
+}
+
+
+.carousel-caption.carosuel-conf1 h1 {
+  font-size:45px;
+}
+
+.lol{
+  text-transform: uppercase;
+}
+
+.arrow{
+    position: inherit;
+    left: 50%;
+    top: 95px;
+}
+
+.padd{
+  padding: 100px 20px 20px ;
+}
+.paddtext{
+  font-size:40px;
+}
+
+.acolor{
+  color: #36587F;
+}
+
+.bcolor{
+  color: #73AC85;
+}
+
+.persona {
+  height: 600px;
+  right: 150px;
+  position: relative;
+  top: 20px;
+
+}
+
+.paddtop{
+  padding-top: 50px;
+
+}
+.block{
+  position: relative;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+    padding: 40px 20px;
+    background: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.block:hover{
+  box-shadow: 2px 2px 20px rgba(104,104,104,0.2);
+}
+
+.block h6{
+  padding: 10px 0;
+}
+.bordertopblue{
+  border-top: 3px solid #1593d0;
+}
+
+.bordertopred{
+  border-top: 3px solid #f04d4e;
+}
+
+.bordertopyellow{
+  border-top: 3px solid #fecc17;
+}
+
+.circuloa {
+  width: 90px;
+   height: 90px;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   background: #FFC107;
+   margin: 0 auto;
+   font-size: 60px;
+}
+
+.circulob{
+  width: 90px;
+   height: 90px;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   background: #2196F3;
+   margin: 0 auto;
+   font-size: 60px;
+}
+
+.circuloc{
+  width: 90px;
+   height: 90px;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   background: #f04d4e;
+   margin: 0 auto;
+   font-size: 60px;
+}
+
+.icono{
+  padding: 16px 0;
+  color: #ffffff;
+}
+
+
+.bgcon{
+  background-image: url(/img/bg3.jpg);
+  background-attachment: fixed;
+  padding: 150px 20px;
+  background-position: center center;
+  background-size: 100%;
+}
+
+.btn{
+  background-color: rgba(255, 255, 255, 0);
+    color: #ffffff;
+    border: solid 2px #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    margin-top: 15px
+}
+
+.btn:hover{
+  color: #E40000;
+  border: solid 2px #E40000;
+
+}
+
+/*redes sociales*/
+.facebook{
+  background-color: #3a5795;
+  padding-top: 70px;
+  padding-left: 0px;
+}
+
+.twitter{
+  background-color:#1da1f2;
+  padding-top:70px;
+  padding-left: 0px;
+}
+
+.googleplus{
+  background-color: #d73d32;
+  padding-top: 70px;
+  padding-left: 0px;
+}
+
+.iconsocial{
+  position: absolute;
+    top: 20px;
+    width: 100%;
+    color: #ffffff;
+    text-align: center;
+}
+.icolor{
+  color:#ffffff;
+}
+/*end*/
+
+.textleft {
+  text-align: left;
+}
+
+.textright{
+  text-align: right;
+}
